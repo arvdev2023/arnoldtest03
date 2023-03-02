@@ -1,0 +1,15 @@
+1. //a[@href="/es-es/"]
+2. //div/div/nav/div/button[@aria-label="Para equipos: Abrir submenú"]
+3. //div/a[@href="/es-es/store/"]
+4. //div/div/a[@href="/es-es/idea/download/"]
+5. //div/a[@href="/es-es/idea/features#collaborative"]
+6. //div/ul/li/p/a[@href="https://lp.jetbrains.com/intellij-idea-profiler/?_ga=2.211180124.855458402.1677719966-2094754546.1623904080&_gl=1*1ve7fv4*_ga*MjA5NDc1NDU0Ni4xNjIzOTA0MDgw*_ga_9J976DJZ68*MTY3NzcyMzYxMS43LjEuMTY3NzcyMzYzMi4wLjAuMA.."]
+7.//div[@class="wt-offset-top-32 comparison-card__button"]/span/button
+8. //div/span/a[@href="/es-es/idea/download/download-thanks.html?platform=windows&code=IIC"]
+9. //div/a[@href="/es-es/products/compare/?product=idea&product=idea-ce"]
+10. //div/span[@class="wt-privacy-notice__tooltip-content"]
+
+
+
+
+
